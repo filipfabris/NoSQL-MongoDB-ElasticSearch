@@ -1,0 +1,205 @@
+{
+    "took": 142,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 10000,
+            "relation": "gte"
+        },
+        "max_score": 1,
+        "hits": [
+            {
+                "_index": "exercise",
+                "_id": "vBTHP4wBuJ-X9p4RV8Xc",
+                "_score": 1,
+                "_source": {
+                    "FirstName": "BRADLY",
+                    "LastName": "SANKARAN",
+                    "Designation": "Software Engineer",
+                    "Salary": "59000",
+                    "DateOfJoining": "2010-09-23",
+                    "Address": "149 Madison Lane North Canton, OH 44720",
+                    "Gender": "Male",
+                    "Age": 27,
+                    "MaritalStatus": "Married",
+                    "Interests": "Knotting,Diecast Collectibles,Crocheting,Pinochle"
+                }
+            },
+            {
+                "_index": "exercise",
+                "_id": "vRTHP4wBuJ-X9p4RV8Xm",
+                "_score": 1,
+                "_source": {
+                    "FirstName": "ROSALEE",
+                    "LastName": "TELLIER",
+                    "Designation": "Software Engineer",
+                    "Salary": "57000",
+                    "DateOfJoining": "2008-09-29",
+                    "Address": "113 Cypress Court Huntsville, AL 35803",
+                    "Gender": "Female",
+                    "Age": 27,
+                    "MaritalStatus": "Married",
+                    "Interests": "Grip Strength,Wingsuit Flying,Skateboarding,Walking,Surfing"
+                }
+            },
+            {
+                "_index": "exercise",
+                "_id": "vhTHP4wBuJ-X9p4RV8Xu",
+                "_score": 1,
+                "_source": {
+                    "FirstName": "ROSALINDA",
+                    "LastName": "SCHRACK",
+                    "Designation": "Software Engineer",
+                    "Salary": "55000",
+                    "DateOfJoining": "2011-01-03",
+                    "Address": "112 Green Lane North Royalton, OH 44133",
+                    "Gender": "Female",
+                    "Age": 28,
+                    "MaritalStatus": "Unmarried",
+                    "Interests": "Kites,Pinochle,Fast cars"
+                }
+            },
+            {
+                "_index": "exercise",
+                "_id": "vxTHP4wBuJ-X9p4RV8X2",
+                "_score": 1,
+                "_source": {
+                    "FirstName": "TABETHA",
+                    "LastName": "SWEAZEY",
+                    "Designation": "Software Engineer",
+                    "Salary": "58000",
+                    "DateOfJoining": "2008-02-27",
+                    "Address": "7026 N. Linda St. Coatesville, PA 19320",
+                    "Gender": "Female",
+                    "Age": 27,
+                    "MaritalStatus": "Married",
+                    "Interests": "Four Wheeling,Building A House For Habitat For Humanity,Sand Castles"
+                }
+            },
+            {
+                "_index": "exercise",
+                "_id": "wBTHP4wBuJ-X9p4RV8X9",
+                "_score": 1,
+                "_source": {
+                    "FirstName": "MICAH",
+                    "LastName": "SCALA",
+                    "Designation": "Software Engineer",
+                    "Salary": "55000",
+                    "DateOfJoining": "2009-02-06",
+                    "Address": "4 Shipley Drive New Hyde Park, NY 11040",
+                    "Gender": "Female",
+                    "Age": 26,
+                    "MaritalStatus": "Unmarried",
+                    "Interests": "Going to movies"
+                }
+            },
+            {
+                "_index": "exercise",
+                "_id": "wRTHP4wBuJ-X9p4RWMUE",
+                "_score": 1,
+                "_source": {
+                    "FirstName": "SHAY",
+                    "LastName": "JAMESON",
+                    "Designation": "Software Engineer",
+                    "Salary": "57000",
+                    "DateOfJoining": "2015-02-16",
+                    "Address": "750 Cactus St. Ellenwood, GA 30294",
+                    "Gender": "Female",
+                    "Age": 26,
+                    "MaritalStatus": "Married",
+                    "Interests": "Cosplay,Renaissance Faire,Parachuting,Cross-Stitch,Cave Diving,Racing Pigeons"
+                }
+            },
+            {
+                "_index": "exercise",
+                "_id": "whTHP4wBuJ-X9p4RWMUK",
+                "_score": 1,
+                "_source": {
+                    "FirstName": "MARC",
+                    "LastName": "STORMES",
+                    "Designation": "Software Engineer",
+                    "Salary": "56000",
+                    "DateOfJoining": "2011-02-28",
+                    "Address": "7824 Creekside Ave. Conyers, GA 30012",
+                    "Gender": "Male",
+                    "Age": 28,
+                    "MaritalStatus": "Married",
+                    "Interests": "Saltwater Aquariums,Horse riding"
+                }
+            },
+            {
+                "_index": "exercise",
+                "_id": "wxTHP4wBuJ-X9p4RWMUR",
+                "_score": 1,
+                "_source": {
+                    "FirstName": "KAREY",
+                    "LastName": "URRY",
+                    "Designation": "Software Engineer",
+                    "Salary": "55000",
+                    "DateOfJoining": "2011-02-04",
+                    "Address": "868 Walnutwood St. Piedmont, SC 29673",
+                    "Gender": "Female",
+                    "Age": 27,
+                    "MaritalStatus": "Married",
+                    "Interests": "Bonsai Tree"
+                }
+            },
+            {
+                "_index": "exercise",
+                "_id": "xBTHP4wBuJ-X9p4RWMUZ",
+                "_score": 1,
+                "_source": {
+                    "FirstName": "TONA",
+                    "LastName": "WOODINGTON",
+                    "Designation": "Software Engineer",
+                    "Salary": "52000",
+                    "DateOfJoining": "2013-04-22",
+                    "Address": "9677 Spruce Street Fort Mill, SC 29708",
+                    "Gender": "Female",
+                    "Age": 27,
+                    "MaritalStatus": "Unmarried",
+                    "Interests": "Collecting RPM Records,Candle Making,Macramé"
+                }
+            },
+            {
+                "_index": "exercise",
+                "_id": "xRTHP4wBuJ-X9p4RWMUg",
+                "_score": 1,
+                "_source": {
+                    "FirstName": "KIETH",
+                    "LastName": "OSTER",
+                    "Designation": "Software Engineer",
+                    "Salary": "53000",
+                    "DateOfJoining": "2010-10-29",
+                    "Address": "9496 Carson Dr. Marshfield, WI 54449",
+                    "Gender": "Male",
+                    "Age": 29,
+                    "MaritalStatus": "Unmarried",
+                    "Interests": "Drawing,Compose Music"
+                }
+            }
+        ]
+    },
+    "aggregations": {
+        "gender_terms": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "male",
+                    "doc_count": 25083
+                },
+                {
+                    "key": "female",
+                    "doc_count": 24917
+                }
+            ]
+        }
+    }
+}
